@@ -1,0 +1,13 @@
+html, body {
+    height:calc(100% - 8px);
+}
+
+#info_version {
+    margin : 0px;
+}
+
+#main_canvas {
+    width:100%;
+    height:calc(100% - 16px);
+    border : 1px red solid;
+}
